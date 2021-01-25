@@ -10,4 +10,8 @@ public class DemoController {
     public void test(){
         System.out.println("this is  master test");
     }
+
+    public  void  demo(){
+        System.out.println("这个是分支的demo");
+    }
 }
